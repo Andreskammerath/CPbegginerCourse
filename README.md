@@ -1,1 +1,1 @@
-# CPbegginerCourse
+# CPbeginnerCourse
